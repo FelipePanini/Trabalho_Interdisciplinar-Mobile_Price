@@ -44,7 +44,7 @@ O objetivo do projeto é implementar e analisar o algoritmo **K-Nearest Neighbor
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `mobile_price_dataset.xlsx` | Dataset bruto com 2.000 registros e 20 atributos de especificações técnicas de celulares. Fonte original sem qualquer modificação. |
+| `mobile_price_dataset.xlsx` | Dataset bruto com 2.000 registros e 21 atributos de especificações técnicas de celulares. Fonte original sem qualquer modificação. |
 | `mobile_price_dataset_silver.csv` | Versão intermediária do dataset com renomeação de colunas (ex.: `blue` → `bluetooth`, `fc` → `front_camera`) para melhor legibilidade. |
 | `mobile_price_dataset_golden.csv` | Versão final utilizada no treinamento do modelo. Contém apenas os 4 atributos selecionados: `battery_power`, `clock_speed`, `n_cores` e `ram`, além da variável alvo `price_range`. |
 
