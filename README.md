@@ -44,13 +44,13 @@ O objetivo do projeto é implementar e analisar o algoritmo **K-Nearest Neighbor
 
 | Arquivo | Descrição |
 |---------|-----------|
-| `mobile_price_dataset.xlsx` | Dataset bruto com 2.000 registros e 21 atributos de especificações técnicas de celulares. Fonte original sem qualquer modificação. |
-| `mobile_price_dataset_silver.csv` | Versão intermediária do dataset com 1.998 registros e 20 atributos. |
-| `mobile_price_dataset_golden.csv` | Versão final utilizada no treinamento do modelo, contendo a renomeação das colunas para melhor legibilidade. |
+| `Mobile_Price_Dataset_Bronze.xlsx` | Dataset bruto com 2.000 registros e 21 atributos de especificações técnicas de celulares. Fonte original sem qualquer modificação. |
+| `Mobile_Price_Dataset_Silver.csv` | Versão intermediária do dataset com 1.998 registros e 20 atributos. |
+| `Mobile_Price_Dataset_Golden.csv` | Versão final utilizada no treinamento do modelo, contendo a renomeação das colunas para melhor legibilidade. |
 
 ### Notebooks
 
-#### `Celulares_Price.ipynb` — Análise Exploratória e Pré-processamento
+#### `Analise_Exploratoria.ipynb` — Análise Exploratória e Pré-processamento
 Notebook inicial com a análise exploratória do dataset. Contém:
 - Carregamento e visualização dos dados brutos
 - Verificação de formato, tipos e quantidade de registros
@@ -110,7 +110,7 @@ pip install pandas numpy scikit-learn
 
 ### Ordem de execução recomendada
 
-1. Abra e execute `Celulares_Price.ipynb` para entender o pré-processamento dos dados
+1. Abra e execute `Analise_Exploratoria.ipynb` para entender o pré-processamento dos dados
 2. Execute `KNN_Manual.ipynb` para ver a implementação manual do KNN
 3. Execute `KNN_Biblioteca.ipynb` para ver a implementação com scikit-learn e a comparação de resultados
 
