@@ -32,8 +32,7 @@ O objetivo do projeto é implementar e analisar o algoritmo **K-Nearest Neighbor
 │   ├── KNN_Manual.ipynb                   ← Implementação manual do KNN (sem biblioteca)
 │   └── KNN_Biblioteca.ipynb               ← Implementação do KNN com scikit-learn
 │
-└── 📄 Relatório
-    └── Relatorio_Final.pdf                ← Relatório completo do trabalho
+
 ```
 
 ---
