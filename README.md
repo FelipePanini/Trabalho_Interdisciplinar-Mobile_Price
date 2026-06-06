@@ -1,6 +1,6 @@
 # 📱 Classificação de Faixa de Preço de Celulares — KNN
 
-Trabalho interdisciplinar desenvolvido para as disciplinas de **Matemática para Computação**, **Inteligência Artificial e suas Aplicações**, **Fundamentos de Programação** e **Fundamentos de Lógica** — UniEduK / UniFAJ.
+Trabalho interdisciplinar desenvolvido para as disciplinas de **Matemática para Computação**, **Inteligência Artificial e suas Aplicações**, **Fundamentos de Programação** e **Fundamentos de Lógica** — UniFAJ.
 
 O objetivo do projeto é implementar e analisar o algoritmo **K-Nearest Neighbors (KNN)** aplicado à classificação de celulares em faixas de preço, com base em suas especificações técnicas.
 
