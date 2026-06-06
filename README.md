@@ -23,16 +23,17 @@ O objetivo do projeto é implementar e analisar o algoritmo **K-Nearest Neighbor
 ```
 📦 Trabalho-Interdisciplinar---Mobile-Price
 ├── 📊 Dados
-│   ├── Mobile_Price_Dataset_Bronze.xlsx   ← Dado bruto original
-│   ├── Mobile_Price_Dataset_Silver.csv    ← Dado com tratamento intermediário
-│   └── Mobile_Price_Dataset_Golden.csv    ← Dado final utilizado no modelo
+│   ├── Mobile_Price_Dataset_Bronze.xlsx   ← Dado bruto original.
+│   ├── Mobile_Price_Dataset_Silver.csv    ← Dado com tratamento intermediário.
+│   └── Mobile_Price_Dataset_Golden.csv    ← Dado final utilizado no modelo.
 │
 ├── 📓 Notebooks
-│   ├── Analise_Exploratoria.ipynb         ← Análise exploratória e pré-processamento
-│   ├── KNN_Manual.ipynb                   ← Implementação manual do KNN (sem biblioteca)
-│   └── KNN_Biblioteca.ipynb               ← Implementação do KNN com scikit-learn
+│   ├── Analise_Exploratoria.ipynb         ← Análise exploratória e pré-processamento.
+│   ├── KNN_Manual.ipynb                   ← Implementação manual do KNN (sem biblioteca).
+│   └── KNN_Biblioteca.ipynb               ← Implementação do KNN com Scikit-Learn.
 │
-
+├── 💾 PDF
+    └── Sobre o conjunto de dados.pdf      ← Contém especificações dos atributos.
 ```
 
 ---
